@@ -1,0 +1,2 @@
+# Embedded
+Android application projects
